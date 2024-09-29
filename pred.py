@@ -27,18 +27,22 @@ st.write("""
 This tool allows you to predict AQI for a specific time period.  
 Just provide the necessary inputs below.
 """)
-
+st.subheader('1. Select Start Date')
 start_date = st.date_input('Select a start date for prediction')
-
+st.subheader('2. Enter Number of Days to Forecast')
 periods = st.number_input('Number of days to predict', min_value=1, max_value=365, value=7)
-
+st.subheader('3. Select City')
+city = st.selectbox(
+    'Select the city for AQI prediction',
+    ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata', 'Hyderabad']
+)
 # Prediction button
 if st.button('Predict AQI'):
     # Get the prediction using SARIMA
     predictions = predict_aqi(sarima_model, start_date, periods)
     
     # Display results
-    st.subheader(f'Predicted AQI for the next {periods} days starting from {start_date}:')
+    st.subheader(f'Predicted AQI for {city} for the next {periods} days starting from {start_date}:')
     
     # Convert predictions to a DataFrame for better display
     pred_df = pd.DataFrame({
