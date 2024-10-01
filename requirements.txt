@@ -1,145 +1,72 @@
-  a b s l - p y = = 2 . 1 . 0 
- 
- a l t a i r = = 5 . 3 . 0 
- 
- a s t u n p a r s e = = 1 . 6 . 3 
- 
- a t t r s = = 2 3 . 2 . 0 
- 
- b l i n k e r = = 1 . 7 . 0 
- 
- c a c h e t o o l s = = 5 . 3 . 3 
- 
- c e r t i f i = = 2 0 2 4 . 2 . 2 
- 
- c h a r s e t - n o r m a l i z e r = = 3 . 3 . 2 
- 
- c l i c k = = 8 . 1 . 7 
- 
- c o l o r a m a = = 0 . 4 . 6 
- 
- d i s t l i b = = 0 . 3 . 8 
- 
- f i l e l o c k = = 3 . 1 6 . 1 
- 
- f l a t b u f f e r s = = 2 4 . 3 . 2 5 
- 
- g a s t = = 0 . 5 . 4 
- 
- g i t d b = = 4 . 0 . 1 1 
- 
- G i t P y t h o n = = 3 . 1 . 4 3 
- 
- g o o g l e - p a s t a = = 0 . 2 . 0 
- 
- g r p c i o = = 1 . 6 2 . 1 
- 
- h 5 p y = = 3 . 1 1 . 0 
- 
- i d n a = = 3 . 6 
- 
- J i n j a 2 = = 3 . 1 . 3 
- 
- j s o n s c h e m a = = 4 . 2 1 . 1 
- 
- j s o n s c h e m a - s p e c i f i c a t i o n s = = 2 0 2 3 . 1 2 . 1 
- 
- k e r a s = = 3 . 2 . 0 
- 
- l i b c l a n g = = 1 8 . 1 . 1 
- 
- M a r k d o w n = = 3 . 6 
- 
- m a r k d o w n - i t - p y = = 3 . 0 . 0 
- 
- M a r k u p S a f e = = 2 . 1 . 5 
- 
- m d u r l = = 0 . 1 . 2 
- 
- m l - d t y p e s = = 0 . 3 . 2 
- 
- n a m e x = = 0 . 0 . 7 
- 
- n u m p y = = 1 . 2 6 . 4 
- 
- o p t - e i n s u m = = 3 . 3 . 0 
- 
- o p t r e e = = 0 . 1 1 . 0 
- 
- p a c k a g i n g = = 2 4 . 0 
- 
- p a n d a s = = 2 . 2 . 1 
- 
- p a t s y = = 0 . 5 . 6 
- 
- p i l l o w = = 1 0 . 3 . 0 
- 
- p i p e n v = = 2 0 2 4 . 0 . 3 
- 
- p l a t f o r m d i r s = = 4 . 3 . 6 
- 
- p r o t o b u f = = 4 . 2 5 . 3 
- 
- p y a r r o w = = 1 5 . 0 . 2 
- 
- p y d e c k = = 0 . 8 . 1 b 0 
- 
- P y g m e n t s = = 2 . 1 7 . 2 
- 
- p y t h o n - d a t e u t i l = = 2 . 9 . 0 . p o s t 0 
- 
- p y t z = = 2 0 2 4 . 1 
- 
- r e f e r e n c i n g = = 0 . 3 4 . 0 
- 
- r e q u e s t s = = 2 . 3 1 . 0 
- 
- r i c h = = 1 3 . 7 . 1 
- 
- r p d s - p y = = 0 . 1 8 . 0 
- 
- s c i p y = = 1 . 1 4 . 1 
- 
- s i x = = 1 . 1 6 . 0 
- 
- s m m a p = = 5 . 0 . 1 
- 
- s t a t s m o d e l s = = 0 . 1 4 . 3 
- 
- s t r e a m l i t = = 1 . 3 3 . 0 
- 
- t e n a c i t y = = 8 . 2 . 3 
- 
- t e n s o r b o a r d = = 2 . 1 6 . 2 
- 
- t e n s o r b o a r d - d a t a - s e r v e r = = 0 . 7 . 2 
- 
- t e n s o r f l o w = = 2 . 1 6 . 1 
- 
- t e n s o r f l o w - i n t e l = = 2 . 1 6 . 1 
- 
- t e n s o r f l o w - i o - g c s - f i l e s y s t e m = = 0 . 3 1 . 0 
- 
- t e r m c o l o r = = 2 . 4 . 0 
- 
- t o m l = = 0 . 1 0 . 2 
- 
- t o o l z = = 0 . 1 2 . 1 
- 
- t o r n a d o = = 6 . 4 
- 
- t y p i n g _ e x t e n s i o n s = = 4 . 1 1 . 0 
- 
- t z d a t a = = 2 0 2 4 . 1 
- 
- u r l l i b 3 = = 2 . 2 . 1 
- 
- v i r t u a l e n v = = 2 0 . 2 6 . 5 
- 
- w a t c h d o g = = 4 . 0 . 0 
- 
- W e r k z e u g = = 3 . 0 . 2 
- 
- w r a p t = = 1 . 1 6 . 0 
- 
- 
+absl-py==2.1.0  
+altair==5.3.0  
+astunparse==1.6.3  
+attrs==23.2.0  
+blinker==1.7.0  
+cachetools==5.3.3  
+certifi==2024.2.2  
+charset-normalizer==3.3.2  
+click==8.1.7  
+colorama==0.4.6  
+distlib==0.3.8  
+filelock==3.16.1  
+flatbuffers==24.3.25  
+gast==0.5.4  
+gitdb==4.0.11  
+GitPython==3.1.43  
+google-pasta==0.2.0  
+grpcio==1.62.1  
+h5py==3.11.0  
+idna==3.6  
+Jinja2==3.1.3  
+jsonschema==4.21.1  
+jsonschema-specifications==2023.12.1  
+keras==3.2.0  
+libclang==18.1.1  
+Markdown==3.6  
+markdown-it-py==3.0.0  
+MarkupSafe==2.1.5  
+mdurl==0.1.2  
+ml-dtypes==0.3.2  
+namex==0.0.7  
+numpy==1.26.4  
+opt-einsum==3.3.0  
+optree==0.11.0  
+packaging==24.0  
+pandas==2.2.1  
+patsy==0.5.6  
+Pillow==10.3.0  
+pipenv==2024.0.3  
+platformdirs==4.3.6  
+protobuf==4.25.3  
+pyarrow==15.0.2  
+pydeck==0.8.1b0  
+Pygments==2.17.2  
+python-dateutil==2.9.0.post0  
+pytz==2024.1  
+referencing==0.34.0  
+requests==2.31.0  
+rich==13.7.1  
+rpds-py==0.18.0  
+scipy==1.14.1  
+six==1.16.0  
+smmap==5.0.1  
+statsmodels==0.14.3  
+streamlit==1.33.0  
+tenacity==8.2.3  
+tensorboard==2.16.2  
+tensorboard-data-server==0.7.2  
+tensorflow==2.16.1  
+tensorflow-intel==2.16.1  
+tensorflow-io-gcs-filesystem==0.31.0  
+termcolor==2.4.0  
+toml==0.10.2  
+toolz==0.12.1  
+tornado==6.4  
+typing_extensions==4.11.0  
+tzdata==2024.1  
+urllib3==2.2.1  
+virtualenv==20.26.5  
+watchdog==4.0.0  
+Werkzeug==3.0.2  
+wrapt==1.16.0
